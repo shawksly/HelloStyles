@@ -1,0 +1,83 @@
+/* body {
+    background-color: #EEEEEE;
+}
+nav {
+    font-family: 'Franklin Gothic Medium';
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color:#AAAAAA;
+    padding: 10px 0px 10px 10px;
+}
+nav a {
+    color: white;
+    background: darkslateblue;
+    padding: 5px 15px;
+    text-decoration: none
+}
+header {
+    color:darkslateblue;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+main {
+    font-family:'Segoe UI';
+    color:#333333;
+} */
+body {
+    background-color: #EEEEEE;
+}
+header {
+    display: block;
+    width: 60%;
+    text-align: center;
+    color:darkslateblue;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    border: 2px solid darkslateblue;
+    margin: 40px 20% 60px;
+    background-color: #DDDDDD;
+}
+header p {
+    margin: 20px 0px;
+}
+
+nav {
+    display: block;
+    width: 80%;
+    margin: 40px 10%;
+    padding: 15px 0px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color:#DDDDDD;
+    border: 2px solid darkslateblue;
+}
+
+.nav-button {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    margin: 0px;
+    color: white;
+    background: darkslateblue;
+    padding: 5px 15px;
+    text-decoration: none
+}
+
+.image {
+    display: block;
+    width: 80%;
+    margin: 40px 10%;
+    height: auto;
+}
+
+.text {
+    display: block;
+    width: 80%;
+    margin: 40px 10%;
+    font-family:'Segoe UI';
+    color:#333333;
+}
